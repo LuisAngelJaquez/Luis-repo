@@ -1,5 +1,5 @@
 # luis-repo
 Primer repo creado en github
 
-##Descripción
+## Descripción
 Este es mi primer repo, creado solo para prueba.
